@@ -36,11 +36,17 @@ projects[colorbox][version] = "2.9"
 projects[context][subdir] = contrib
 projects[context][version] = "3.6"
 
+projects[crazyegg][subdir] = contrib
+projects[crazyegg][version] = "1.0"
+
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.7"
 
 projects[delta][subdir] = "contrib"
 projects[delta][version] = "3.0-beta11"
+
+projects[devel][subdir] = "contrib"
+projects[devel][version] = "1.5"
 
 projects[disablepwstrength][subdir] = "contrib"
 projects[disablepwstrength][version] = "1.1"
@@ -129,6 +135,12 @@ projects[pathauto][version] = "1.2"
 projects[print][subdir] = "contrib"
 projects[print][version] = "2.0"
 
+projects[profile2][subdir] = "contrib"
+projects[profile2][version] = "1.3"
+
+projects[queue_mail][subdir] = "contrib"
+projects[queue_mail][version] = "1.4"
+
 projects[quicktabs][subdir] = "contrib"
 projects[quicktabs][version] = "3.6"
 
@@ -161,6 +173,9 @@ projects[title][version] = "1.0-alpha7"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.6"
+
+projects[tvi][subdir] = "contrib"
+projects[tvi][version] = "1.0-beta5"
 
 projects[typogrify][subdir] = "contrib"
 projects[typogrify][version] = "1.0-rc10"
