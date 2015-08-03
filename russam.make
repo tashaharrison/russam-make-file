@@ -244,11 +244,6 @@ libraries[json2][download][url] = "git://github.com/douglascrockford/JSON-js.git
 libraries[json2][directory_name] = "json2"
 libraries[json2][type] = "library"
 
-libraries[jquery.jcarousel][download][type] = "file"
-libraries[jquery.jcarousel][download][url] = "http://sorgalla.com/projects/download.php?jcarousel"
-libraries[jquery.jcarousel][directory_name] = "jquery.jcarousel"
-libraries[jquery.jcarousel][type] = "library"
-
 libraries[mailchimp][download][type] = "file"
 libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
 libraries[mailchimp][directory_name] = "mailchimp"
