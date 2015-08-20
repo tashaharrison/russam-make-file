@@ -102,6 +102,9 @@ projects[imce][version] = "1.9"
 projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.6"
 
+projects[jquery_update][subdir] = "contrib"
+projects[jquery_update][version] = "3.0-alpha2"
+
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.2"
 
@@ -167,6 +170,9 @@ projects[smtp][version] = "1.2"
 
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
+
+projects[superfish][subdir] = "contrib"
+projects[superfish][version] = "1.9"
 
 projects[title][subdir] = "contrib"
 projects[title][version] = "1.0-alpha7"
@@ -248,3 +254,8 @@ libraries[mailchimp][download][type] = "file"
 libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
 libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][type] = "library"
+
+libraries[superfish][download][type] = "file"
+libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal/archive/1.x.zip"
+libraries[superfish][directory_name] = "superfish"
+libraries[superfish][type] = "library"
