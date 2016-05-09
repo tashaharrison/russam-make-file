@@ -15,8 +15,17 @@ projects[adaptive_image][version] = "1.4"
 projects[addressfield][subdir] = contrib
 projects[addressfield][version] = "1.2"
 
+projects[admin_menu][subdir] = contrib
+projects[admin_menu][version] = "3.0-rc5"
+
+projects[adminimal_admin_menu][subdir] = contrib
+projects[adminimal_admin_menu][version] = "1.7"
+
 projects[better_exposed_filters][subdir] = "contrib"
 projects[better_exposed_filters][version] = "3.2"
+
+projects[blockify][subdir] = "contrib"
+projects[blockify][version] = "1.2"
 
 projects[boxes][subdir] = "contrib"
 projects[boxes][version] = "1.2"
@@ -57,6 +66,9 @@ projects[draggableviews][version] = "2.1"
 projects[echo][subdir] = "contrib"
 projects[echo][version] = "1.9"
 
+projects[elements][subdir] = "contrib"
+projects[elements][version] = "1.4"
+
 projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.7"
 
@@ -90,6 +102,9 @@ projects[globalredirect][version] = "1.5"
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = "2.2"
 
+projects[html5_tools][subdir] = "contrib"
+projects[html5_tools][version] = "1.3"
+
 projects[htmlmail][subdir] = "contrib"
 projects[htmlmail][version] = "2.65"
 
@@ -113,6 +128,9 @@ projects[link][version] = "1.4"
 
 projects[logintoboggan][subdir] = "contrib"
 projects[logintoboggan][version] = "1.5"
+
+projects[magic][subdir] = contrib
+projects[magic][version] = "2.2"
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = "3.6"
@@ -214,6 +232,8 @@ projects[xmlsitemap][version] = "2.2"
 ; Themes
 ; --------
 
+projects[adminimal_theme][version] = 1.24
+projects[aurora][version] = 3.6
 projects[omega][version] = 4.4
 projects[shiny][version] = 1.7
 
