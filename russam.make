@@ -21,9 +21,6 @@ projects[admin_menu][version] = "3.0-rc5"
 projects[adminimal_admin_menu][subdir] = contrib
 projects[adminimal_admin_menu][version] = "1.7"
 
-projects[autoupload][subdir] = contrib
-projects[autoupload][version] = "1.0"
-
 projects[better_exposed_filters][subdir] = "contrib"
 projects[better_exposed_filters][version] = "3.2"
 
