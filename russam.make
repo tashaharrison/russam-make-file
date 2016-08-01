@@ -40,10 +40,10 @@ projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.17"
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = "2.10"
+projects[colorbox][version] = "2.12"
 
 projects[context][subdir] = contrib
-projects[context][version] = "3.6"
+projects[context][version] = "3.7"
 
 projects[crazyegg][subdir] = contrib
 projects[crazyegg][version] = "1.0"
@@ -79,7 +79,7 @@ projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entityreference_prepopulate][version] = "1.6"
 
 projects[entityreference_view_widget][subdir] = "contrib"
-projects[entityreference_view_widget][version] = "2.0-rc6"
+projects[entityreference_view_widget][version] = "2.0-rc7"
 
 projects[eva][subdir] = "contrib"
 projects[eva][version] = "1.2"
@@ -121,7 +121,7 @@ projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "3.0-alpha2"
 
 projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "2.2"
+projects[libraries][version] = "2.3"
 
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.4"
@@ -133,13 +133,13 @@ projects[magic][subdir] = contrib
 projects[magic][version] = "2.2"
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = "3.6"
+projects[mailchimp][version] = "4.4"
 
 projects[mailsystem][subdir] = "contrib"
 projects[mailsystem][version] = "2.34"
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = "1.14"
+projects[metatag][version] = "1.17"
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = "2.15"
@@ -148,7 +148,7 @@ projects[nocurrent_pass][subdir] = "contrib"
 projects[nocurrent_pass][version] = "1.0"
 
 projects[nodequeue][subdir] = "contrib"
-projects[nodequeue][version] = "2.0"
+projects[nodequeue][version] = "2.1"
 
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.3"
@@ -160,13 +160,13 @@ projects[profile2][subdir] = "contrib"
 projects[profile2][version] = "1.3"
 
 projects[queue_mail][subdir] = "contrib"
-projects[queue_mail][version] = "1.4"
+projects[queue_mail][version] = "1.5"
 
 projects[quicktabs][subdir] = "contrib"
 projects[quicktabs][version] = "3.6"
 
 projects[realname][subdir] = "contrib"
-projects[realname][version] = "1.2"
+projects[realname][version] = "1.3"
 
 projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-rc3"
@@ -199,7 +199,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.6"
 
 projects[tvi][subdir] = "contrib"
-projects[tvi][version] = "1.0-beta5"
+projects[tvi][version] = "1.0-beta6"
 
 projects[typogrify][subdir] = "contrib"
 projects[typogrify][version] = "1.0-rc10"
@@ -211,23 +211,23 @@ projects[variable_email][subdir] = "contrib"
 projects[variable_email][version] = "1.0-alpha1"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.13"
+projects[views][version] = "3.14"
 
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.3"
 
 projects[views_megarow][subdir] = "contrib"
-projects[views_megarow][version] = "1.5"
+projects[views_megarow][version] = "1.6"
 
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.1"
 projects[views_slideshow][patch][] = "https://www.drupal.org/files/issues/views_slideshow-rename_makefile-1330166-16.patch"
 
 projects[webform][subdir] = "contrib"
-projects[webform][version] = "4.12"
+projects[webform][version] = "4.13"
 
 projects[xmlsitemap][subdir] = "contrib"
-projects[xmlsitemap][version] = "2.2"
+projects[xmlsitemap][version] = "2.3"
 
 ; Themes
 ; --------
@@ -246,12 +246,12 @@ libraries[chosen][directory_name] = "chosen"
 libraries[chosen][type] = "library"
 
 libraries[ckeditor][download][type] = "file"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.10/ckeditor_4.5.10_full.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
 libraries[colorbox][download][type] = "git"
-libraries[colorbox][download][url] = "git://github.com/jackmoore/colorbox.git"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.x.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
@@ -271,7 +271,7 @@ libraries[json2][directory_name] = "json2"
 libraries[json2][type] = "library"
 
 libraries[mailchimp][download][type] = "file"
-libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
+libraries[mailchimp][download][url] = "https://github.com/thinkshout/mailchimp-api-php/archive/v1.0.3.zip"
 libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][type] = "library"
 
